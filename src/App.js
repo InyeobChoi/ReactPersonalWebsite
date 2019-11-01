@@ -24,7 +24,7 @@ class App extends Component {
 
   }
 
-  getResumeData(){
+  getPageData(){
     $.ajax({
       url:'/resumeData.json',
       dataType:'json',
@@ -40,7 +40,7 @@ class App extends Component {
   }
 
   componentDidMount(){
-    this.getResumeData();
+    this.getPageData();
   }
 
   render() {

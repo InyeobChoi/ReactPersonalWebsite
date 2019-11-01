@@ -116,6 +116,12 @@
         "category":"",
         "image":"canadian-wanderlust.jpg",
         "url":"https://www..com"
+      },
+      {
+        "title":"Scroll Web Page",
+        "category":"",
+        "image":"personalweb.png",
+        "url":"https://inyeobchoi.github.io/ReactPersonalWebsite/"
       }
     ]
   },

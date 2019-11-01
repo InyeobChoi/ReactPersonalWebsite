@@ -1,5 +1,5 @@
 # React JS Resume Web App Template      
-![ReactJS Resume Website Template](personalweb.jpg?raw=true "ReactJS Resume Website Template")
+![ReactJS Resume Website Template](personalweb.png?raw=true "ReactJS Resume Website Template")
 ### <a href="https://inyeobchoi.github.io/ReactPersonalWebsite/">LIVE DEMO</a> 
 
 ## Description
